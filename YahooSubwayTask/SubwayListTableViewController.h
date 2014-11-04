@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SubwayListTableViewController.h
 //  YahooSubwayTask
 //
 //  Created by Robert Blafford on 11/4/14.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface SubwayListTableViewController : UITableViewController
 
 
 @end
